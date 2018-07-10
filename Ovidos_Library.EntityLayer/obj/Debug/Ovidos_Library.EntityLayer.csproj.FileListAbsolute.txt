@@ -1,0 +1,14 @@
+C:\Users\Gokberk\source\repos\Ovidos_Library\Ovidos_Library.EntityLayer\bin\Debug\Ovidos_Library.EntityLayer.dll.config
+C:\Users\Gokberk\source\repos\Ovidos_Library\Ovidos_Library.EntityLayer\bin\Debug\Ovidos_Library.EntityLayer.dll
+C:\Users\Gokberk\source\repos\Ovidos_Library\Ovidos_Library.EntityLayer\bin\Debug\Ovidos_Library.EntityLayer.pdb
+C:\Users\Gokberk\source\repos\Ovidos_Library\Ovidos_Library.EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\Gokberk\source\repos\Ovidos_Library\Ovidos_Library.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gokberk\source\repos\Ovidos_Library\Ovidos_Library.EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\Gokberk\source\repos\Ovidos_Library\Ovidos_Library.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gokberk\source\repos\Ovidos_Library\Ovidos_Library.EntityLayer\obj\Debug\Ovidos_Library.EntityLayer.csprojAssemblyReference.cache
+C:\Users\Gokberk\source\repos\Ovidos_Library\Ovidos_Library.EntityLayer\obj\Debug\Ovidos_Library.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Gokberk\source\repos\Ovidos_Library\Ovidos_Library.EntityLayer\obj\Debug\Ovidos_Library.EntityLayer.csproj.CopyComplete
+C:\Users\Gokberk\source\repos\Ovidos_Library\Ovidos_Library.EntityLayer\obj\Debug\Ovidos_Library.EntityLayer.dll
+C:\Users\Gokberk\source\repos\Ovidos_Library\Ovidos_Library.EntityLayer\obj\Debug\Ovidos_Library.EntityLayer.pdb
+C:\Users\Gokberk\source\repos\Ovidos_Library\Ovidos_Library.EntityLayer\obj\Debug\Ovidos_Library.EntityLayer.Migrations.LibraryDB.resources
+C:\Users\Gokberk\source\repos\Ovidos_Library\Ovidos_Library.EntityLayer\obj\Debug\Ovidos_Library.EntityLayer.csproj.GenerateResource.cache

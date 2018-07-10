@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ovidos_Library.WebAPI", "Ovidos_Library.WebAPI\Ovidos_Library.WebAPI.csproj", "{84EB113A-833A-4C67-A53D-3CCDEA4B47C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ovidos_Library.EntityLayer", "Ovidos_Library.EntityLayer\Ovidos_Library.EntityLayer.csproj", "{0594BCB7-F8E8-4140-87EB-A30253DB2F40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ovidos_Library.RepositoryLayer", "Ovidos_Library.RepositoryLayer\Ovidos_Library.RepositoryLayer.csproj", "{5961ECAA-08EC-494F-A421-A749073EBF25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84EB113A-833A-4C67-A53D-3CCDEA4B47C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84EB113A-833A-4C67-A53D-3CCDEA4B47C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84EB113A-833A-4C67-A53D-3CCDEA4B47C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84EB113A-833A-4C67-A53D-3CCDEA4B47C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0594BCB7-F8E8-4140-87EB-A30253DB2F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0594BCB7-F8E8-4140-87EB-A30253DB2F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0594BCB7-F8E8-4140-87EB-A30253DB2F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0594BCB7-F8E8-4140-87EB-A30253DB2F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5961ECAA-08EC-494F-A421-A749073EBF25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5961ECAA-08EC-494F-A421-A749073EBF25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5961ECAA-08EC-494F-A421-A749073EBF25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5961ECAA-08EC-494F-A421-A749073EBF25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E873E002-D5B9-4505-B903-BFE0304A9518}
+	EndGlobalSection
+EndGlobal
